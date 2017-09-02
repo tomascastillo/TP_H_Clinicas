@@ -1,0 +1,14 @@
+10
+1 AA AA
+2 BB BB
+3 CC CC
+4 DD DD
+5 EE EE
+6 FF FF
+7 GG GG
+8 HH HH
+9 II II
+10 JJ JJ
+
+
+
